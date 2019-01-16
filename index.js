@@ -3,3 +3,5 @@
 
 
 #stage to be mergerd;
+#inserted new line tocheck 
+#HashChangeEvent
